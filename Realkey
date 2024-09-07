@@ -12,7 +12,7 @@ function DestroyGui()
 end
 
 function Menu()
-    loadstring(game:HttpGet('https://pastebin.com/raw/NaygGzGd'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Ggopwq/real/main/realrick'))()
 end
 
 
